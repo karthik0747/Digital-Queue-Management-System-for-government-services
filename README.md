@@ -1,4 +1,4 @@
-# 🏛️ Digital Queue Management System for Government Services
+#  Digital Queue Management System for Government Services
 
 A console-based Python application that digitizes token/queue management
 across multiple government service counters (Passport, Driving License,
