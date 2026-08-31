@@ -1,11 +1,3 @@
-"""
-Digital Queue Management System for Government Services
-Main entry point - CLI menu.
-Author: Member 3 (Functions & Integration Module) - wires all modules together.
-
-Run with:  python main.py   (from inside the src/ folder)
-"""
-
 from models import GovernmentQueueSystem
 from file_manager import FileManager
 from service_hours import BusinessHours
